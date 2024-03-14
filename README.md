@@ -2,7 +2,7 @@
 
 Contains the code I used to complete my Optimising Bio-Inspired DNN dissertation.
 
-# main content:
+# Main Content:
 
 baseline model
 
